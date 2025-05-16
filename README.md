@@ -34,6 +34,7 @@ This Java-based Task Management System allows users to create, manage, and analy
 - **Tree traversal** outputs due date tasks.
 - **Adjacency lists** show dependencies.
 - **Console interface** allows interaction.
+- **Report generation** for task summaries, date ranges, and workload analysis.
 
 ---
 
@@ -46,6 +47,7 @@ This Java-based Task Management System allows users to create, manage, and analy
 | `User`         | Represents a user with a task list                     |
 | `TaskManager`  | Handles all task operations and data structures        |
 | `GraphManager` | Manages task dependencies and cycle detection          |
+| `ReportManager` | Generates various reports and analytics |
 | `Node`         | Generic node for linked data structures                |
 | `QueueNode`    | Specialized node for queue implementations            |
 | `Stack`        | Custom stack implementation for undo/redo              |
