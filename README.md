@@ -113,7 +113,3 @@ This Java-based Task Management System allows users to create, manage, and analy
 This implementation satisfies **all required custom structure implementations**, uses **Java built-ins where permitted**, and provides a **console interface** for full interactivity.
 
 ---
-
-## To Do Before Submission
-- [ ] Capture screenshots of sample runs
-- [ ] Record a 5-minute presentation video
