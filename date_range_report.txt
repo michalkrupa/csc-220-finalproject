@@ -1,4 +1,0 @@
-=== Task Date Range Report ===
-Period: Wed Jan 01 00:00:00 PST 2025 to Sun Feb 01 00:00:00 PST 2026
-
-Task: Task 1 (Due: Sat Jan 17 00:00:00 PST 2026)
