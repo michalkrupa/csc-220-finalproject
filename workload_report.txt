@@ -1,6 +1,0 @@
-=== User Workload Report ===
-Generated: Fri May 16 13:08:34 PDT 2025
-
-User: Michal (ID: 1)
-Total Tasks: 1
-
